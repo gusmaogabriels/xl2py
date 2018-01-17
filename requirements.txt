@@ -1,0 +1,6 @@
+numpy
+pywin32
+operator
+re
+copy
+time
